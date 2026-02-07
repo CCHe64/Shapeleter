@@ -1,5 +1,5 @@
 # Shapeleter
-**Shapelet Enhancer
+**Shapelet Enhancer**
 
 ---
 
