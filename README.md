@@ -5,7 +5,7 @@
 
 ## 1) Paper
 **Title**: *Shapeleter: Shapelet Enhancer via Multiview Positional Embedding for Time Series Classification*  
-**Venue**: *Knowledge-Based Systems* (Under review)
+**Venue**: *Knowledge-Based Systems* (Under Review)
 
 ---
 
