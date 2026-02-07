@@ -1,5 +1,5 @@
 # Shapeleter
-**Shapelet Enhancer via Multiview Positional Embedding for Time Series Classification (TSC)**
+**Shapelet Enhancer
 
 ---
 
